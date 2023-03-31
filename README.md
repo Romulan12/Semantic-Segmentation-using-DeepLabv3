@@ -1,4 +1,4 @@
-# DeepLabv3_Cityscapes
+# DeepLabv3 on Cityscapes dataset
 The pre-trained model checkpoint with backbone Xception65 was used for for images and  MobileNetV2 for videos (for to faster inference).
 The pre-trained checkpoints can be obtained from https://github.com/tensorflow/models/blob/master/research/deeplab/g3doc/model_zoo.md
 
